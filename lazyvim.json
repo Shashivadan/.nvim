@@ -1,5 +1,6 @@
 {
   "extras": [
+<<<<<<< HEAD
     "lazyvim.plugins.extras.editor.leap",
     "lazyvim.plugins.extras.formatting.prettier",
     "lazyvim.plugins.extras.lang.docker",
@@ -9,6 +10,14 @@
     "lazyvim.plugins.extras.lang.tailwind",
     "lazyvim.plugins.extras.lang.typescript",
     "lazyvim.plugins.extras.linting.eslint"
+=======
+    "lazyvim.plugins.extras.coding.nvim-cmp",
+    "lazyvim.plugins.extras.lang.docker",
+    "lazyvim.plugins.extras.lang.git",
+    "lazyvim.plugins.extras.lang.go",
+    "lazyvim.plugins.extras.lang.markdown",
+    "lazyvim.plugins.extras.lang.sql"
+>>>>>>> 51b250ab1541db5bd41bb4fac5c36efe9e925eb8
   ],
   "news": {
     "NEWS.md": "10960"

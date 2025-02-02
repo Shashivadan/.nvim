@@ -3,7 +3,11 @@
 if true then return {} end
 
 -- every spec file under the "plugins" directory will be loaded automatically by lazy.nvim
+<<<<<<< HEAD
 --
+=======
+
+>>>>>>> 51b250ab1541db5bd41bb4fac5c36efe9e925eb8
 -- In your plugin files, you can:
 -- * add extra plugins
 -- * disable/enabled LazyVim plugins
